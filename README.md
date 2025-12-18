@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Simple Calculator</title>
+  <title>Tiro Xisaabiye</title>
 </head>
 <body>
   <h1>Website-kayga waa LIVE 🎉</h1>
